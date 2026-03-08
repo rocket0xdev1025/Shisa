@@ -714,7 +714,7 @@
                 className: l().socialContainer,
                 children: [
                   (0, n.jsx)(i.default, {
-                    href: "https://t.me/shisalore",
+                    href: "https://t.me/ShisatheShiba",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className: ""
@@ -733,7 +733,7 @@
                     }),
                   }),
                   (0, n.jsx)(i.default, {
-                    href: "https://x.com/shisalore",
+                    href: "https://x.com/ShisatheShiba",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className: ""
@@ -1030,13 +1030,13 @@
                       children: [
                         {
                           name: "Telegram",
-                          href: "https://t.me/shisalore",
+                          href: "https://t.me/ShisatheShiba",
                           icon: "/telegram.png",
                           size: "5.6875rem",
                         },
                         {
                           name: "Twitter",
-                          href: "https://x.com/shisalore",
+                          href: "https://x.com/ShisatheShiba",
                           icon: "/twitter.png",
                           size: "4.625rem",
                         },
