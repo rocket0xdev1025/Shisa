@@ -698,7 +698,7 @@
                 }),
               }),
               (0, n.jsx)(i.default, {
-                href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xb923De64c5012854A92d72f83baAFb84C2bc5a51",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className: l().button,
@@ -1000,7 +1000,7 @@
                   className: "join__actions",
                   children: [
                     (0, n.jsx)(i.default, {
-                      href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                      href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xb923De64c5012854A92d72f83baAFb84C2bc5a51",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "join__button",
@@ -1042,13 +1042,13 @@
                         },
                         {
                           name: "DexScreener",
-                          href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                          href: "https://dexscreener.com/ethereum/0xb923De64c5012854A92d72f83baAFb84C2bc5a51",
                           icon: "/dexscreener.png",
                           size: "5rem",
                         },
                         {
                           name: "DexTools",
-                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xb923De64c5012854A92d72f83baAFb84C2bc5a51",
                           icon: "/dextools.png",
                           size: "5rem",
                         },
@@ -1173,7 +1173,7 @@
                           }),
                         }),
                         (0, n.jsx)(i.default, {
-                          href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                          href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xb923De64c5012854A92d72f83baAFb84C2bc5a51",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           className: "header__button",
@@ -1341,7 +1341,7 @@
             }
           );
         }, []);
-        let a = "0xcomingsoon";
+        let a = "0xb923De64c5012854A92d72f83baAFb84C2bc5a51";
         return (0, n.jsx)("section", {
           id: "tokenomics",
           className: "tokenomics",
