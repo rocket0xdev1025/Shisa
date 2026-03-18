@@ -698,7 +698,7 @@
                 }),
               }),
               (0, n.jsx)(i.default, {
-                href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xb923De64c5012854A92d72f83baAFb84C2bc5a51",
+                href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className: l().button,
@@ -714,7 +714,7 @@
                 className: l().socialContainer,
                 children: [
                   (0, n.jsx)(i.default, {
-                    href: "https://t.me/ShisatheShiba",
+                    href: "https://t.me/bnbshisa",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className: ""
@@ -733,7 +733,7 @@
                     }),
                   }),
                   (0, n.jsx)(i.default, {
-                    href: "https://x.com/ShisatheShiba",
+                    href: "https://x.com/bnbshisa",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className: ""
@@ -1000,7 +1000,7 @@
                   className: "join__actions",
                   children: [
                     (0, n.jsx)(i.default, {
-                      href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xb923De64c5012854A92d72f83baAFb84C2bc5a51",
+                      href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "join__button",
@@ -1030,25 +1030,25 @@
                       children: [
                         {
                           name: "Telegram",
-                          href: "https://t.me/ShisatheShiba",
+                          href: "https://t.me/bnbshisa",
                           icon: "/telegram.png",
                           size: "5.6875rem",
                         },
                         {
                           name: "Twitter",
-                          href: "https://x.com/ShisatheShiba",
+                          href: "https://x.com/bnbshisa",
                           icon: "/twitter.png",
                           size: "4.625rem",
                         },
                         {
                           name: "DexScreener",
-                          href: "https://dexscreener.com/ethereum/0xb923De64c5012854A92d72f83baAFb84C2bc5a51",
+                          href: "https://dexscreener.com/bsc/0xcomingsoon",
                           icon: "/dexscreener.png",
                           size: "5rem",
                         },
                         {
                           name: "DexTools",
-                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xb923De64c5012854A92d72f83baAFb84C2bc5a51",
+                          href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
                           icon: "/dextools.png",
                           size: "5rem",
                         },
@@ -1173,7 +1173,7 @@
                           }),
                         }),
                         (0, n.jsx)(i.default, {
-                          href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xb923De64c5012854A92d72f83baAFb84C2bc5a51",
+                          href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           className: "header__button",
@@ -1341,7 +1341,7 @@
             }
           );
         }, []);
-        let a = "0xb923De64c5012854A92d72f83baAFb84C2bc5a51";
+        let a = "0xcomingsoon";
         return (0, n.jsx)("section", {
           id: "tokenomics",
           className: "tokenomics",
